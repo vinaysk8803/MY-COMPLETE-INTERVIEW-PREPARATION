@@ -1,8 +1,15 @@
 # COMPLETE-INTERVIEW-PREPARATION
+  - DATA STRUCTURE AND ALGORITHMS
+  - OBJECT ORIENTED PROGRAMMING
+  - OPERATING SYSTEM
+  - COMPUTER NETWORKS
+  - SYSTEM -DESIGN
+  - DATABASE MANAGMENT SYSTEM
+  
 ## RESOURCE I AM FOLLOWING 
   -  For Dsa+Java  - [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   
-
+## DATA STRUCTURE AND ALGORITHM
 - [Arrays](https://www.javatpoint.com/data-structure-array)
     - Searching
         - [Linear Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)
@@ -34,3 +41,9 @@
 
  ## JAVA TOPICS
    - [ Java Basics Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/java%20basic%20notes%20kunal.pdf)
+   
+ ## OPERATING SYSTEM
+ ## COMPUTER NETWORKS
+ ## SYSTEM -DESIGN
+ ## DATABASE MANAGMENT SYSTEM
+
