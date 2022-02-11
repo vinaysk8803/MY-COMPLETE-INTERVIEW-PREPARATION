@@ -65,3 +65,5 @@
  - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
  - [INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
 
+
+//git pull --rebase origin main 
