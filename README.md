@@ -5,17 +5,17 @@
  ## DSA TOPICS
 - [Arrays](https://youtu.be/n60Dn0UsbEk)
     - Searching
-        - [Linear Search](https://youtu.be/_HRA37X8N_Q)
-        - [Binary Search](https://youtu.be/f6UU7V3szVw)
-        - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
+        - [Linear Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)
+        - [Binary Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Binary%20Search.pdf)
+        - [Binary Search on 2D Arrays]()
     - Sorting
-        - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
-        - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
-        - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-        - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
-- [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
+        - [Insertion Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort2-%20%20%20%20%20Insertion%20Sort.pdf.pdf)
+        - [Selection Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort3-%20%20%20%20%20Selection%20Sort.pdf)
+        - [Bubble Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort1-%20%20%20%20%20bubble%20sort.pdf.pdf)
+        - [Cyclic Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort4-%20%20%20%20%20%20Cycle%20Sort.pdf)
+- [Strings]
 - [Maths for DSA]
-- [Recursion]
+- [Recursion](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf)
     - [Sorting]
         - [Merge Sort](
         - [Quick Sort](
