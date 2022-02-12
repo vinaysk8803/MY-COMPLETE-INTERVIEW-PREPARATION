@@ -50,13 +50,64 @@
  ## JAVA TOPICS 
    - [ Java Basics HandWritten Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/java%20basic%20notes%20kunal.pdf)
    - [Java Udemy Playlist Free](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/?start=0)
+   - [JAVA INTERVIEW BIT QUESTIONS](https://www.interviewbit.com/java-interview-questions/)
+   - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
+   - [JAVAPOINT 300 CORE JAVA QUESTIONA](https://www.javatpoint.com/corejava-interview-questions)
  ## OOPS
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-   - [Interview Question of Oops-  edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/#oops)
    - [Cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+   - [Interview Question of Oops-  edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/#oops)
+   - [Interview Bits Imporatant Question of Oops](https://www.interviewbit.com/oops-interview-questions/)
    - [Mcqs Practice](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
    - [Mcqs ](https://www.onlineinterviewquestions.com/oops-mcq/)
+ ### Important Topics In OOPS
+   - Class and Objects
+   - Feature of OOPS
+   - Compile time & Run time Polymorphism
+   - Types of Variable(scope)
+   - Static(Variables,Functions,Objects)
+   - Inheritence(Type and Mode)
+   - Virtual(Functions and Class)
+   - Abstract Class & Interface 
+   - Friend(Function,Class)
+   - Call by value , Call by reference
+   - this pointer 12) Abstraction
+   - Exception Handling
+   - Constructor & Destructor
+   - Copy Constructor(Deep,Shallow)
+   - Copy Assignment operator
+   - Reference variable 
+   - Const(Variable,Function,Argument)
+   - verloading(Function,Constructor,Operator)
+   - Function Overriding 
+   - Inline Functions 
+   - Default(Arguments,Constructor)
+   - Type Conversion
+  
  ## 3.OPERATING SYSTEM
+  ## RESOURCES
+ - [KNOWLEDGE GATE YT PLAYLIST](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+ - [GATE SMASHER YT PLAYLIST](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+ - [Github repo](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)/Readme.md)
+ - [OS book pdf]
+ - [OS Quick Guide pdf]
+ - [OS NOTES PREPINSTA](https://prepinsta.com/operating-systems/)
+ - [INTERVIEW BIT OS INTERVIEW QUESTION](https://www.interviewbit.com/operating-system-interview-questions/)
+ - [JAVAPOINT OS INTERVIEW QUESTION](https://www.javatpoint.com/operating-system-interview-questions)
+ - [INTERVIEW BIT OS MCQS ](https://www.interviewbit.com/operating-system-mcq/)
+ ### Important Topics In OS
+ - Process(attributes,state,life cycle,PCB) vs Thread
+ - Scheduling Algo(FCF'S,SJF,SRTF,Round Robin,Priority scheduling,Multiple level 6ueue)
+ - Convoy effect,Multiprogramming vs Multiprocessing vs Multitasking vs Multithreading 
+ - 4)Memory allocation • Contigous Fixed Partioning Dynamic Partioning • Non-Contigous Paging • Segmentation 
+ - Internal & External fragmentation,Compaction 
+ - Memory allocation technique(First fit,Next fit,Worst fit,Best fit) 
+ - Virtual memory,TLB,Cache,Page fault,Thrashing,Demand paging,Belady's Anamoly 0 8)Page Replacment Algorithms 
+ - Deadlock(necessary conditions,prevention,detection & recovery),Banker's Algo 
+ - Critical section problem
+ - Mutex vs Semaphore
+ - File allocation method & Disk Scheduling 
+ 
  ## 4.COMPUTER NETWORKS 
   ## RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
@@ -88,8 +139,7 @@
   -  Flow vs Error Control 
  
  ## 5.SYSTEM DESIGN
- - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
-  -[INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
+  
  ## 6.DATABASE MANAGMENT SYSTEM
   ## RESOURCES
  - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
