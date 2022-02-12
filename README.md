@@ -15,8 +15,22 @@
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   ## ONLINE PRACTICE PLATFORMS 
-   
+  - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
+  - [INTERVIEW BIT](https://www.interviewbit.com/courses/programming/)
+  - [INTERVIEW BIT 300 MUST DO QUESTION](https://www.interviewbit.com/coding-interview-questions/)
+  - [GFG](https://practice.geeksforgeeks.org/home/)
+  - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+  - [CODING NINJA MOCK TEST ](https://www.codingninjas.com/codestudio/test-series)
+  - [LEETCODE](https://leetcode.com/explore/)
+  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+  - [CODECHEF](https://www.codechef.com/problems/school?limit=50)
+##PROBLEMS FOR PRACTICE 
+ - [LEETCODE TOPIC WISE QUESTIONS LINK](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+ - [12 WEEK LEETCOODE PROBLEMS PDF]-FILE MEIN HAI
+ - [450 QUESTION SETS]
+ - [STRIVER 30 DAY SHEET](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 ## DSA TOPICS   
+###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 - [Arrays](https://www.javatpoint.com/data-structure-array)
     - Searching
         - [Linear Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)
@@ -99,7 +113,7 @@
    - Copy Assignment operator
    - Reference variable 
    - Const(Variable,Function,Argument)
-   - verloading(Function,Constructor,Operator)
+   - Overloading(Function,Constructor,Operator)
    - Function Overriding 
    - Inline Functions 
    - Default(Arguments,Constructor)
