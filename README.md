@@ -8,6 +8,7 @@
   - [OTHERS IMPORTANT THINGS](#7others-important-things)
  
 ### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
+### BOOK FOR CODING INTERVIEW - [CRACKING THE CODING INTERVIEW](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
 
 ## 1.DATA STRUCTURE AND ALGORITHM
 ## RESOURCES 
@@ -52,6 +53,20 @@
    - [JAVA INTERVIEW BIT QUESTIONS](https://www.interviewbit.com/java-interview-questions/)
    - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
    - [JAVAPOINT 300 CORE JAVA QUESTIONA](https://www.javatpoint.com/corejava-interview-questions)
+   
+ <h1 align='center'> Java Programming MCQs </h1><br>
+- [Inheritance](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
+- [Abstract Class and Interface](https://www.geeksforgeeks.org/java-gq/abstract-class-and-interface-in-java-gq/)
+- [Arrays](https://www.geeksforgeeks.org/java-gq/arrays-gq/)
+- [Data Types](https://www.geeksforgeeks.org/java-gq/data-types-2-gq/)
+- [Constructors](https://www.geeksforgeeks.org/java-gq/constructors-2-gq/)
+- [Exception Handling](https://www.geeksforgeeks.org/java-gq/exception-handling-2-gq/)
+- [Packages](https://www.geeksforgeeks.org/java-gq/packages-gq/)
+- [Class and Object](https://www.geeksforgeeks.org/java-gq/class-and-object-2-gq/)
+- [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
+- [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
+- [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
+
  ## OOPS
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [Cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
@@ -117,6 +132,7 @@
    - [CODING NINJA GIUDED PATH](https://www.codingninjas.com/codestudio/guided-paths/computer-networks)
    - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
    - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
+   - [GFG LAST MINUTES NOTES](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
    - [NOTES](https://drive.google.com/file/d/1EraWa_yVfFHJqOMG2nG91fbg2g1FHm30/view)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
    - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION </a>
@@ -178,6 +194,18 @@
    - Conflict Serializable VS View Serializable  
   
  ## 7.OTHERS IMPORTANT THINGS
+ ### APPTITUDE TEST RESOURCES
+  - [INDIA BIX](https://www.indiabix.com/online-test/aptitude-test/)
+  - [GFG APPITUDE MCQS](https://www.geeksforgeeks.org/quiz-corner-gq/)
+  - [PUZZELS](https://www.geeksforgeeks.org/puzzles/)
+  - [CODING NINJA GUIDED PATH](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
+  - [GFG Tests](https://www.geeksforgeeks.org/aptitude-gq/)
+  - [Freshers Now](https://www.freshersnow.com/aptitude-questions-answers-solutions/)
+  - [Sawaal](https://www.sawaal.com/)
+ ### EXTRA THINGS
+  - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+  - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
+  - [50 HR QUESTIONS](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
 
 
         
