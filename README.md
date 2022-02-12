@@ -143,7 +143,7 @@
  ## 5.SYSTEM DESIGN
   
  ## 6.DATABASE MANAGMENT SYSTEM
-  ## RESOURCES
+ ## RESOURCES
  - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
  - [W3 SCHOOLS SQL QUERIRES](https://www.w3schools.com/sql/sql_intro.asp)
  - [DBMS NOTES PREPINSTA](https://prepinsta.com/database-management-system-dbms/)
@@ -173,6 +173,5 @@
 
         
         git pull --rebase origin main 
-        
-      git push -u origin main
+        git push -u origin main
 
