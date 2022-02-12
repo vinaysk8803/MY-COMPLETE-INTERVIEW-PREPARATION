@@ -47,7 +47,7 @@
         - Radix Sort [Website Note](https://utkarsh1504.github.io/DSA-Java/radixsort)
 - ### Strings
 - ### Maths for DSA
-        - [Complete Bitwise Operators](https://utkarsh1504.github.io/DSA-Java/bitwise-operator)
+      - [Complete Bitwise Operators](https://utkarsh1504.github.io/DSA-Java/bitwise-operator)
 - ### Recursion 
    - [INTRODUCTION](https://utkarsh1504.github.io/DSA-Java/intro-recursion) 
    - [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
