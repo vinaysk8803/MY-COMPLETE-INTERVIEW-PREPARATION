@@ -10,7 +10,6 @@
 ### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 
 ## 1.DATA STRUCTURE AND ALGORITHM
-
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   ## ONLINE PRACTICE PLATFORMS 
