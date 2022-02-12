@@ -53,19 +53,18 @@
    - [JAVA INTERVIEW BIT QUESTIONS](https://www.interviewbit.com/java-interview-questions/)
    - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
    - [JAVAPOINT 300 CORE JAVA QUESTIONA](https://www.javatpoint.com/corejava-interview-questions)
-   
- <h1 align='center'> Java Programming MCQs </h1><br>
-- [Inheritance](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
-- [Abstract Class and Interface](https://www.geeksforgeeks.org/java-gq/abstract-class-and-interface-in-java-gq/)
-- [Arrays](https://www.geeksforgeeks.org/java-gq/arrays-gq/)
-- [Data Types](https://www.geeksforgeeks.org/java-gq/data-types-2-gq/)
-- [Constructors](https://www.geeksforgeeks.org/java-gq/constructors-2-gq/)
-- [Exception Handling](https://www.geeksforgeeks.org/java-gq/exception-handling-2-gq/)
-- [Packages](https://www.geeksforgeeks.org/java-gq/packages-gq/)
-- [Class and Object](https://www.geeksforgeeks.org/java-gq/class-and-object-2-gq/)
-- [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
-- [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
-- [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
+### JAVA PROGRAMMING MCQS
+  - [Inheritance](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
+  - [Abstract Class and Interface](https://www.geeksforgeeks.org/java-gq/abstract-class-and-interface-in-java-gq/)
+  - [Arrays](https://www.geeksforgeeks.org/java-gq/arrays-gq/)
+  - [Data Types](https://www.geeksforgeeks.org/java-gq/data-types-2-gq/)
+  - [Constructors](https://www.geeksforgeeks.org/java-gq/constructors-2-gq/)
+  - [Exception Handling](https://www.geeksforgeeks.org/java-gq/exception-handling-2-gq/)
+  - [Packages](https://www.geeksforgeeks.org/java-gq/packages-gq/)
+  - [Class and Object](https://www.geeksforgeeks.org/java-gq/class-and-object-2-gq/)
+  - [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
+  - [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
+  - [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
 
  ## OOPS
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
