@@ -14,6 +14,8 @@
 # `1.DATA STRUCTURE AND ALGORITHM`
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+ - [Apna College DSA + JAVA Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+ - [Abdul Bari ALgorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
   ## ONLINE PRACTICE PLATFORMS 
   - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
   - [INTERVIEW BIT](https://www.interviewbit.com/courses/programming/)
@@ -26,24 +28,26 @@
   - [CODECHEF](https://www.codechef.com/problems/school?limit=50)
  ## PROBLEMS FOR PRACTICE 
  - [LEETCODE TOPIC WISE QUESTIONS LINK](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
- - [12 WEEK LEETCOODE PROBLEMS PDF]-FILE MEIN HAI
- - [450 QUESTION SETS]
+ - [12 WEEK LEETCOODE PROBLEMS PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/practice%20problem/12%20Week%20Programme%20-%20Leetcode.pdf)
+ - [450 QUESTION SETS](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
  - [STRIVER 30 DAY SHEET](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 ## DSA TOPICS   
 ###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
-- [Arrays](https://www.javatpoint.com/data-structure-array)
+- [Arrays](https://utkarsh1504.github.io/DSA-Java/arrays)
     - Searching
-        - [Linear Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)
-        - [Binary Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Binary%20Search.pdf)
-        - [Binary Search on 2D Arrays]()
+        - Linear Search [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)    [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/linearsearch)
+        - Binary Search [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Binary%20Search.pdf)    [WEBSITE NOTES](https://www.geeksforgeeks.org/binary-search/)
+        - Binary Search on 2D Arrays [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Binary_Search_in_2D_Arrays.pdf)
     - Sorting
-        - [Insertion Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort2-%20%20%20%20%20Insertion%20Sort.pdf.pdf)
-        - [Selection Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort3-%20%20%20%20%20Selection%20Sort.pdf)
-        - [Bubble Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort1-%20%20%20%20%20bubble%20sort.pdf.pdf)
-        - [Cyclic Sort](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort4-%20%20%20%20%20%20Cycle%20Sort.pdf)
+        - Insertion Sort [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort2-%20%20%20%20%20Insertion%20Sort.pdf.pdf)  [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/insertion)
+        - Selection Sort [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort3-%20%20%20%20%20Selection%20Sort.pdf)   [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/selectionsort)
+        - Bubble Sort [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort1-%20%20%20%20%20bubble%20sort.pdf.pdf)  [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/bubblesort)
+        - Cyclic Sort [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort4-%20%20%20%20%20%20Cycle%20Sort.pdf)  [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/cyclesort)
+        - Count Sort [Website Note](https://utkarsh1504.github.io/DSA-Java/countsort)
+        - Radix Sort [Website Note](https://utkarsh1504.github.io/DSA-Java/radixsort)
 - [Strings]
 - [Maths for DSA]
-- [Recursion](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf)
+- Recursion [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
     - [Sorting]
         - [Merge Sort](
         - [Quick Sort](
