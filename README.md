@@ -6,6 +6,8 @@
   - SYSTEM -DESIGN
   - DATABASE MANAGMENT SYSTEM
   - OTHERS IMPORTANT THINGS
+ 
+### [COMPLETE 4TH YEAR  ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 
 ## 1. DATA STRUCTURE AND ALGORITHM
 
@@ -46,7 +48,8 @@
 
  ## 2.OBJECT ORIENTED PROGRAMMING
  ## JAVA TOPICS 
-   - [ Java Basics Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/java%20basic%20notes%20kunal.pdf)
+   - [ Java Basics HandWritten Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/java%20basic%20notes%20kunal.pdf)
+   - [Java Udemy Playlist Free](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/?start=0)
  ## OOPS
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [Interview Question of Oops-  edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/#oops)
@@ -56,7 +59,32 @@
  ## 3.OPERATING SYSTEM
  ## 4.COMPUTER NETWORKS RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
+   - [VIDEO PKAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [CODING NINJA GIUDED PATH](https://www.codingninjas.com/codestudio/guided-paths/computer-networks)
+   - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
+   - [GFF COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
+   - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
+   - [EDUREKA MOST ASKED QUESTION](https://www.edureka.co/blog/interview-questions/networking-interview-questions/)
+
+### Important Topics Of CN
+   - Network Topology( Mesh, Bus, Star,Ring) 
+   - Switch,Hub,Router,Gateway,Bridge Firewall 
+  -  Transmission mode(Simplex,Half Duplex,Duplex)
+  -  ipv4 vs ipv6 
+  -  Subnetting in IP 
+  -  SI Model layer,data units & functionality
+  -  TCP/IP Model layers,functionality 
+  -  TCP vs UDP 
+  -  Unicasting,Multicasting,Broadcasting 
+  -  What happens when you type URL in a browser ? 
+  -  top Wait protocol  
+  -  Piggybacking  
+  -  DHCP,ARP,RARP,ICMP
+  -  POP3 vs IVIAP 
+  -  DVR vs LSR 
+  -  3 way handshake protocol 
+  -  DNS ,DHCP,FTP,HTTP vs HTTPS,SMTP,SNMP 
+  -  Flow vs Error Control 
  
  ## 5.SYSTEM -DESIGN
  - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
