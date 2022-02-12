@@ -45,15 +45,20 @@
         - Cyclic Sort [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/sort4-%20%20%20%20%20%20Cycle%20Sort.pdf)  / [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/cyclesort)
         - Count Sort [Website Note](https://utkarsh1504.github.io/DSA-Java/countsort)
         - Radix Sort [Website Note](https://utkarsh1504.github.io/DSA-Java/radixsort)
-- ### [Strings]
-- ### [Maths for DSA]
-- ### Recursion [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
-    - [Sorting]
-        - [Merge Sort](
-        - [Quick Sort](
-    - [Backtracking]
-- [Space and Time Complexity Analysis]
-- [Object Oriented Programming]
+- ### Strings
+- ### Maths for DSA
+        - [Complete Bitwise Operators](https://utkarsh1504.github.io/DSA-Java/bitwise-operator)
+- ### Recursion [INTRODUCTION](https://utkarsh1504.github.io/DSA-Java/intro-recursion) [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
+    - Sorting
+        - [Merge Sort](https://www.javatpoint.com/merge-sort)
+        - [Quick Sort](https://utkarsh1504.github.io/DSA-Java/quicksort)
+    - Backtracking
+- ### Space and Time Complexity Analysis
+      - [Introduction](https://utkarsh1504.github.io/DSA-Java/intro-complexity)
+      - [Time Complexity](https://utkarsh1504.github.io/DSA-Java/time-complexity)
+      - [Time Complexity Handwritten](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time_and_Space_Complexity.pdf)
+      - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
+      - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
 - Linked List
 - Stacks & Queues
 - Trees
