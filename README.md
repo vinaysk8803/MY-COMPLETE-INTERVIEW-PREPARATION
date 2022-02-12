@@ -1,4 +1,4 @@
-# COMPLETE-INTERVIEW-PREPARATION
+# ` COMPLETE-INTERVIEW-PREPARATION `
   - [DATA STRUCTURE AND ALGORITHMS](#1DATA-STRUCTURE-AND-ALGORITHM)
   - [OBJECT ORIENTED PROGRAMMING](#2object-oriented-programming)
   - [OPERATING SYSTEM](#3operating-system)
@@ -10,13 +10,13 @@
 ### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 ### BOOK FOR CODING INTERVIEW - [CRACKING THE CODING INTERVIEW](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
 
+
 ## 1.DATA STRUCTURE AND ALGORITHM
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   ## ONLINE PRACTICE PLATFORMS 
    
-  
-  
+## DSA TOPICS   
 - [Arrays](https://www.javatpoint.com/data-structure-array)
     - Searching
         - [Linear Search](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)
@@ -45,6 +45,12 @@
 - Graphs
 - Dynamic Programming
 - Greedy Algorithms
+
+
+
+
+
+
 
  ## 2.OBJECT ORIENTED PROGRAMMING
  ## JAVA TOPICS 
@@ -98,7 +104,13 @@
    - Inline Functions 
    - Default(Arguments,Constructor)
    - Type Conversion
-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ## 3.OPERATING SYSTEM
   ## RESOURCES
  - [KNOWLEDGE GATE YT PLAYLIST](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
@@ -123,6 +135,10 @@
  - Critical section problem
  - Mutex vs Semaphore
  - File allocation method & Disk Scheduling 
+ 
+ 
+ 
+ 
  
  ## 4.COMPUTER NETWORKS 
   ## RESOURCES
@@ -155,7 +171,11 @@
   -  3 way handshake protocol 
   -  DNS ,DHCP,FTP,HTTP vs HTTPS,SMTP,SNMP 
   -  Flow vs Error Control 
- 
+
+
+
+
+
  ## 5.SYSTEM DESIGN
   ## RESOURCES
    - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
@@ -165,6 +185,9 @@
    - [TUTORAIALS POINT DESIGN PATTERN TUTORIAL](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
    - [GFG SYSTEM SYSTEM DESIGN INTERVIEW QUESTION](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
    - [INTERVIEW BIT SYSTEM DESIGN](https://www.interviewbit.com/courses/system-design/)
+  
+  
+  
   
  ## 6.DATABASE MANAGMENT SYSTEM
  ## RESOURCES
@@ -191,12 +214,15 @@
    - Transaction(State & ACID Properties)
    - Dirty Read,Phantom Read,Lost Update Problem 
    - Conflict Serializable VS View Serializable  
-  
- ## 7.OTHERS IMPORTANT THINGS
+
+
+
+## 7.OTHERS IMPORTANT THINGS
  ### APPTITUDE TEST RESOURCES
   - [INDIA BIX](https://www.indiabix.com/online-test/aptitude-test/)
   - [GFG APPITUDE MCQS](https://www.geeksforgeeks.org/quiz-corner-gq/)
-  - [PUZZELS](https://www.geeksforgeeks.org/puzzles/)
+  - [ GFG PUZZELS](https://www.geeksforgeeks.org/puzzles/)
+  - [INTERVIEW BIT PUZZELS](https://www.interviewbit.com/puzzles/)
   - [CODING NINJA GUIDED PATH](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
   - [GFG Tests](https://www.geeksforgeeks.org/aptitude-gq/)
   - [Freshers Now](https://www.freshersnow.com/aptitude-questions-answers-solutions/)
