@@ -71,7 +71,8 @@
    - Abstract Class & Interface 
    - Friend(Function,Class)
    - Call by value , Call by reference
-   - this pointer 12) Abstraction
+   - this keyword 
+   - Abstraction
    - Exception Handling
    - Constructor & Destructor
    - Copy Constructor(Deep,Shallow)
@@ -102,7 +103,8 @@
  - 4)Memory allocation • Contigous Fixed Partioning Dynamic Partioning • Non-Contigous Paging • Segmentation 
  - Internal & External fragmentation,Compaction 
  - Memory allocation technique(First fit,Next fit,Worst fit,Best fit) 
- - Virtual memory,TLB,Cache,Page fault,Thrashing,Demand paging,Belady's Anamoly 0 8)Page Replacment Algorithms 
+ - Virtual memory,TLB,Cache,Page fault,Thrashing,Demand paging,Belady's Anamoly
+ - Page Replacment Algorithms 
  - Deadlock(necessary conditions,prevention,detection & recovery),Banker's Algo 
  - Critical section problem
  - Mutex vs Semaphore
