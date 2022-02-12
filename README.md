@@ -1,15 +1,15 @@
 # COMPLETE-INTERVIEW-PREPARATION
-  - [DATA STRUCTURE AND ALGORITHMS](#1-DATA-STRUCTURE-AND-ALGORITHM)
-  - [OBJECT ORIENTED PROGRAMMING](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/README.md#2object-oriented-programming)
-  - [OPERATING SYSTEM](#3-OPERATING-SYSTEM)
-  - [COMPUTER NETWORKS](#4-COMPUTER-NETWORKS)
-  - [SYSTEM -DESIGN](#5-SYSTEM-DESIGN)
-  - [DATABASE MANAGEMENT SYSTEM](#6-DATABSE-MANAGEMENT-SYSTEM)
-  - [OTHERS IMPORTANT THINGS](#7-OTHER-IMPPRTANT-THINGS)
+  - [DATA STRUCTURE AND ALGORITHMS](#1DATA-STRUCTURE-AND-ALGORITHM)
+  - [OBJECT ORIENTED PROGRAMMING](#2object-oriented-programming)
+  - [OPERATING SYSTEM](#3operating-system)
+  - [COMPUTER NETWORKS](#4computer-networks)
+  - [SYSTEM -DESIGN](#5system-design)
+  - [DATABASE MANAGEMENT SYSTEM](#6database-managment-system)
+  - [OTHERS IMPORTANT THINGS](#7others-important-things)
  
 ### [COMPLETE 4TH YEAR  ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 
-## 1. DATA STRUCTURE AND ALGORITHM
+## 1.DATA STRUCTURE AND ALGORITHM
 
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -87,7 +87,7 @@
   -  DNS ,DHCP,FTP,HTTP vs HTTPS,SMTP,SNMP 
   -  Flow vs Error Control 
  
- ## 5.SYSTEM -DESIGN
+ ## 5.SYSTEM DESIGN
  - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
   -[INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
  ## 6.DATABASE MANAGMENT SYSTEM
