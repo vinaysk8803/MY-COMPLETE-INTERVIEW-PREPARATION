@@ -91,11 +91,13 @@
  - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
   -[INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
  ## 6.DATABASE MANAGMENT SYSTEM
+  ## RESOURCES
  - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
  - [W3 SCHOOLS SQL QUERIRES](https://www.w3schools.com/sql/sql_intro.asp)
  - [DBMS NOTES PREPINSTA](https://prepinsta.com/database-management-system-dbms/)
  - [VIDEO RESOURCE KNOWLEDGE GATE YT PLAYLIST](https://youtube.com/playlist?list=PLDsWlXwFNai7qqOiGLxgw6mc7yIE8_y9T)
  - [SQL VIDEO PLAYLIST BY GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiHqU4HKL7-SITyuSIcD93id)
+ - [GITHUB REPO](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)/Readme.md)
  - [115 SQL INTERVIEW QUESTION EDUREKA](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
  - [INTERVIEW BIT SQL INTERVIEW QUESTION](https://www.interviewbit.com/sql-interview-questions/#sql)
  - [JAVAPOINT DBMS INTERVIEW QUESTION](https://www.javatpoint.com/dbms-interview-questions)
