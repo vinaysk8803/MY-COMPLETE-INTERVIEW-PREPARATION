@@ -115,7 +115,8 @@
    - [VIDEO PLAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [CODING NINJA GIUDED PATH](https://www.codingninjas.com/codestudio/guided-paths/computer-networks)
    - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
-   - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
+   - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
+   - [NOTES](https://drive.google.com/file/d/1EraWa_yVfFHJqOMG2nG91fbg2g1FHm30/view)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
    - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION </a>
 
