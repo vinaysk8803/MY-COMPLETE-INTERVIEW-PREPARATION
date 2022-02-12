@@ -7,7 +7,7 @@
   - [DATABASE MANAGEMENT SYSTEM](#6database-managment-system)
   - [OTHERS IMPORTANT THINGS](#7others-important-things)
  
-### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7{:target="_blank"})
+### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 
 ## 1.DATA STRUCTURE AND ALGORITHM
 
@@ -65,7 +65,7 @@
    - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
    - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
-   - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION</a>
+   - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION </a>
 
 ### Important Topics Of CN
    - Network Topology( Mesh, Bus, Star,Ring) 
