@@ -65,7 +65,7 @@
    - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
    - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
-   - [EDUREKA MOST ASKED QUESTION](https://www.edureka.co/blog/interview-questions/networking-interview-questions/)
+   - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION</a>
 
 ### Important Topics Of CN
    - Network Topology( Mesh, Bus, Star,Ring) 
