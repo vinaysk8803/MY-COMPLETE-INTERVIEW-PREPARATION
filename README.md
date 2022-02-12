@@ -7,7 +7,7 @@
   - [DATABASE MANAGEMENT SYSTEM](#6database-managment-system)
   - [OTHERS IMPORTANT THINGS](#7others-important-things)
  
-### <a href="https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7" target="_blank">COMPLETE 4TH YEAR  ROADMAP</a>
+### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7){:target="_blank"}
 
 ## 1.DATA STRUCTURE AND ALGORITHM
 
