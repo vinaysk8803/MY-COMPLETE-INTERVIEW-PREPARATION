@@ -48,7 +48,7 @@
 
  ## 2.OBJECT ORIENTED PROGRAMMING
  ## JAVA TOPICS 
-   - [ Java Basics HandWritten Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/java%20basic%20notes%20kunal.pdf)
+   - [ Java Basics HandWritten Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/JAVA/java%20basic%20notes%20kunal.pdf)
    - [Java Udemy Playlist Free](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/?start=0)
    - [JAVA INTERVIEW BIT QUESTIONS](https://www.interviewbit.com/java-interview-questions/)
    - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
@@ -90,8 +90,8 @@
  - [KNOWLEDGE GATE YT PLAYLIST](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
  - [GATE SMASHER YT PLAYLIST](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
  - [Github repo](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)/Readme.md)
- - [OS book pdf]
- - [OS Quick Guide pdf]
+ - [OS book pdf](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/OS/Bedtime%20Stories%20on%20Operating%20Systems.pdf)
+ - [OS Quick Guide pdf](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/OS/os_quick_guide.pdf)
  - [OS NOTES PREPINSTA](https://prepinsta.com/operating-systems/)
  - [INTERVIEW BIT OS INTERVIEW QUESTION](https://www.interviewbit.com/operating-system-interview-questions/)
  - [JAVAPOINT OS INTERVIEW QUESTION](https://www.javatpoint.com/operating-system-interview-questions)
@@ -173,5 +173,6 @@
 
         
         git pull --rebase origin main 
-        git push -u origin main
+        
+      git push -u origin main
 
