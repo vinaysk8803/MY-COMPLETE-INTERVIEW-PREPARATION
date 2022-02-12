@@ -55,6 +55,7 @@
  ## OOPS
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [Cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+   - [JAVAPOINT OOPS TUTORIAL](https://www.javatpoint.com/java-oops-concepts)
    - [Interview Question of Oops-  edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/#oops)
    - [Interview Bits Imporatant Question of Oops](https://www.interviewbit.com/oops-interview-questions/)
    - [Mcqs Practice](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
@@ -141,6 +142,14 @@
   -  Flow vs Error Control 
  
  ## 5.SYSTEM DESIGN
+  ## RESOURCES
+   - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
+   - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+   - [GITHUB REPO LINK](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)
+   - [SOME PROBLEMS SOLUTION IN JAVA PDF]
+   - [TUTORAIALS POINT DESIGN PATTERN TUTORIAL](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
+   - [GFG SYSTEM SYSTEM DESIGN INTERVIEW QUESTION](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+   - [INTERVIEW BIT SYSTEM DESIGN](https://www.interviewbit.com/courses/system-design/)
   
  ## 6.DATABASE MANAGMENT SYSTEM
  ## RESOURCES
