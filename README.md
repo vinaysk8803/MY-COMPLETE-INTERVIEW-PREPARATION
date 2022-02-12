@@ -91,8 +91,29 @@
  - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
   -[INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
  ## 6.DATABASE MANAGMENT SYSTEM
- - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
- - [INTERVIEW QUESTIONS](https://github.com/bregman-arie/devops-exercises#Network)
+ - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+ - [W3 SCHOOLS SQL QUERIRES](https://www.w3schools.com/sql/sql_intro.asp)
+ - [DBMS NOTES PREPINSTA](https://prepinsta.com/database-management-system-dbms/)
+ - [VIDEO RESOURCE KNOWLEDGE GATE YT PLAYLIST](https://youtube.com/playlist?list=PLDsWlXwFNai7qqOiGLxgw6mc7yIE8_y9T)
+ - [SQL VIDEO PLAYLIST BY GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiHqU4HKL7-SITyuSIcD93id)
+ - [115 SQL INTERVIEW QUESTION EDUREKA](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
+ - [INTERVIEW BIT SQL INTERVIEW QUESTION](https://www.interviewbit.com/sql-interview-questions/#sql)
+ - [JAVAPOINT DBMS INTERVIEW QUESTION](https://www.javatpoint.com/dbms-interview-questions)
+ - [INTERVIEW BIT DBMS INTERVIEW QUESTION](https://www.interviewbit.com/dbms-interview-questions/)
+### Important Topic in DBMS/SQL
+   - Advantages of DBMS
+   - Keys(Super,Primary,Candidate,Foreign)
+   - Normalization(1NF,2NF,3NF,BCNF) 
+   - SQL • DDL,DML,DCL,TCL  
+   - SQL Query(SELECT,FROM,WHERE,HAVING, ORDER BY,GROUP BY,IIKE,AS)
+   - Aggregrate Functions 
+   - Relational Algebra(Select,Project,Union Set Difference,Cartesian Product,Rename) 
+   - Join(Natural,Inner,Outer,Left,Right
+   - Trigger,Cursor ,View 
+   - Transaction(State & ACID Properties)
+   - Dirty Read,Phantom Read,Lost Update Problem 
+   - Conflict Serializable VS View Serializable  
+  
  ## 7.OTHERS IMPORTANT THINGS
 
 
