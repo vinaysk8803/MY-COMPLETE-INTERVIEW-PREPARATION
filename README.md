@@ -1,11 +1,11 @@
 # COMPLETE-INTERVIEW-PREPARATION
   - [DATA STRUCTURE AND ALGORITHMS](#1-DATA-STRUCTURE-AND-ALGORITHM)
-  - [OBJECT ORIENTED PROGRAMMING](#2-OBJECT-ORIENTED-PROGRAMMING)
-  - [OPERATING SYSTEM](#3-OPERATING SYSTEM)
+  - [OBJECT ORIENTED PROGRAMMING](##2-OBJECT-ORIENTED-PROGRAMMING)
+  - [OPERATING SYSTEM](#3-OPERATING-SYSTEM)
   - [COMPUTER NETWORKS](#4-COMPUTER-NETWORKS)
   - [SYSTEM -DESIGN](#5-SYSTEM-DESIGN)
-  - [DATABASE MANAGEMENT SYSTEM](#6-DATABSE-MANAGEMENT SYSTEM)
-  - [OTHERS IMPORTANT THINGS](#7-OTHER-IMP-THINGS)
+  - [DATABASE MANAGEMENT SYSTEM](#6-DATABSE-MANAGEMENT-SYSTEM)
+  - [OTHERS IMPORTANT THINGS](#7-OTHER-IMPPRTANT-THINGS)
  
 ### [COMPLETE 4TH YEAR  ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 
@@ -57,7 +57,8 @@
    - [Mcqs Practice](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
    - [Mcqs ](https://www.onlineinterviewquestions.com/oops-mcq/)
  ## 3.OPERATING SYSTEM
- ## 4.COMPUTER NETWORKS RESOURCES
+ ## 4.COMPUTER NETWORKS 
+  ## RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
    - [VIDEO PLAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [CODING NINJA GIUDED PATH](https://www.codingninjas.com/codestudio/guided-paths/computer-networks)
