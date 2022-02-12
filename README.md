@@ -11,7 +11,7 @@
 ### BOOK FOR CODING INTERVIEW - [CRACKING THE CODING INTERVIEW](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
 
 
-## `1.DATA STRUCTURE AND ALGORITHM`
+# `1.DATA STRUCTURE AND ALGORITHM`
 ## RESOURCES 
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   ## ONLINE PRACTICE PLATFORMS 
@@ -52,7 +52,7 @@
 
 
 
- ## `2.OBJECT ORIENTED PROGRAMMING`
+ # `2.OBJECT ORIENTED PROGRAMMING`
  ## JAVA TOPICS 
    - [ Java Basics HandWritten Notes ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/JAVA/java%20basic%20notes%20kunal.pdf)
    - [Java Udemy Playlist Free](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/?start=0)
@@ -111,7 +111,7 @@
  
  
  
- ##` 3.OPERATING SYSTEM`
+ # `3.OPERATING SYSTEM`
   ## RESOURCES
  - [KNOWLEDGE GATE YT PLAYLIST](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
  - [GATE SMASHER YT PLAYLIST](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
@@ -140,7 +140,7 @@
  
  
  
- ##` 4.COMPUTER NETWORKS `
+ # `4.COMPUTER NETWORKS `
   ## RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
    - [VIDEO PLAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
@@ -176,7 +176,7 @@
 
 
 
- ## `5.SYSTEM DESIGN`
+ # `5.SYSTEM DESIGN`
   ## RESOURCES
    - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
    - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -189,7 +189,7 @@
   
   
   
- ##` 6.DATABASE MANAGMENT SYSTEM`
+ #  `6.DATABASE MANAGMENT SYSTEM`
  ## RESOURCES
  - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
  - [W3 SCHOOLS SQL QUERIRES](https://www.w3schools.com/sql/sql_intro.asp)
@@ -217,7 +217,7 @@
 
 
 
-## `7.OTHERS IMPORTANT THINGS`
+# `7.OTHERS IMPORTANT THINGS`
  ## APPTITUDE TEST RESOURCES
   - [INDIA BIX](https://www.indiabix.com/online-test/aptitude-test/)
   - [GFG APPITUDE MCQS](https://www.geeksforgeeks.org/quiz-corner-gq/)
