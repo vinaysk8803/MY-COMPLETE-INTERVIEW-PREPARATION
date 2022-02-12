@@ -19,18 +19,18 @@
   ## ONLINE PRACTICE PLATFORMS 
   - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
   - [INTERVIEW BIT](https://www.interviewbit.com/courses/programming/)
-  - [INTERVIEW BIT 300 MUST DO QUESTION](https://www.interviewbit.com/coding-interview-questions/)
   - [GFG](https://practice.geeksforgeeks.org/home/)
-  - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
   - [CODING NINJA MOCK TEST ](https://www.codingninjas.com/codestudio/test-series)
   - [LEETCODE](https://leetcode.com/explore/)
-  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
   - [CODECHEF](https://www.codechef.com/problems/school?limit=50)
  ## PROBLEMS FOR PRACTICE 
  - [LEETCODE TOPIC WISE QUESTIONS LINK](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
  - [12 WEEK LEETCOODE PROBLEMS PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/practice%20problem/12%20Week%20Programme%20-%20Leetcode.pdf)
  - [450 QUESTION SETS](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
  - [STRIVER 30 DAY SHEET](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+ - [INTERVIEW BIT 300 MUST DO QUESTION](https://www.interviewbit.com/coding-interview-questions/)
+ - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+ - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 ## DSA TOPICS   
 ###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 - ### Arrays  [Link](https://utkarsh1504.github.io/DSA-Java/arrays)
@@ -48,17 +48,19 @@
 - ### Strings
 - ### Maths for DSA
         - [Complete Bitwise Operators](https://utkarsh1504.github.io/DSA-Java/bitwise-operator)
-- ### Recursion [INTRODUCTION](https://utkarsh1504.github.io/DSA-Java/intro-recursion) [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
+- ### Recursion 
+   - [INTRODUCTION](https://utkarsh1504.github.io/DSA-Java/intro-recursion) 
+   - [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Introduction_to_Recursion.pdf) 
     - Sorting
         - [Merge Sort](https://www.javatpoint.com/merge-sort)
         - [Quick Sort](https://utkarsh1504.github.io/DSA-Java/quicksort)
     - Backtracking
 - ### Space and Time Complexity Analysis
-      - [Introduction](https://utkarsh1504.github.io/DSA-Java/intro-complexity)
-      - [Time Complexity](https://utkarsh1504.github.io/DSA-Java/time-complexity)
-      - [Time Complexity Handwritten](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time_and_Space_Complexity.pdf)
-      - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
-      - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
+    - [Introduction](https://utkarsh1504.github.io/DSA-Java/intro-complexity)
+    - [Time Complexity](https://utkarsh1504.github.io/DSA-Java/time-complexity)
+    - [Time Complexity Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time_and_Space_Complexity.pdf)
+    - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
+    - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
 - Linked List
 - Stacks & Queues
 - Trees
