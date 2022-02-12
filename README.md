@@ -1,5 +1,5 @@
 # COMPLETE-INTERVIEW-PREPARATION
-  - DATA STRUCTURE AND ALGORITHMS
+  - [DATA STRUCTURE AND ALGORITHMS](#1. )
   - OBJECT ORIENTED PROGRAMMING
   - OPERATING SYSTEM
   - COMPUTER NETWORKS
@@ -59,10 +59,10 @@
  ## 3.OPERATING SYSTEM
  ## 4.COMPUTER NETWORKS RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
-   - [VIDEO PKAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+   - [VIDEO PLAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [CODING NINJA GIUDED PATH](https://www.codingninjas.com/codestudio/guided-paths/computer-networks)
    - [GFG TOPIC WISE MCQ SET](https://www.geeksforgeeks.org/data-link-layer-gq/?ref=lbp)
-   - [GFF COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
+   - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/p)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
    - [EDUREKA MOST ASKED QUESTION](https://www.edureka.co/blog/interview-questions/networking-interview-questions/)
 
