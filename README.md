@@ -257,7 +257,7 @@
 ## EXTRA THINGS
   - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
   - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
-  - [50 HR QUESTIONS](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)\
+  - [50 HR QUESTIONS](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
   - [HR Interview Mini Cheatsheet](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/HR%20Interview/HR%20Interview%20Mini%20Cheat%20Book_.pdf)
 
 ## Resume Making websites
