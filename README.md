@@ -84,6 +84,7 @@
    - [JAVA INTERVIEW BIT QUESTIONS](https://www.interviewbit.com/java-interview-questions/)
    - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
    - [JAVAPOINT 300 CORE JAVA QUESTIONA](https://www.javatpoint.com/corejava-interview-questions)
+   - [Java 100 Question pdf ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/JAVA/Top%20100%20JAVA%20Interview%20Qsn%20%26%20Ans_.pdf)
 ### JAVA PROGRAMMING MCQS
   - [Inheritance](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
   - [Abstract Class and Interface](https://www.geeksforgeeks.org/java-gq/abstract-class-and-interface-in-java-gq/)
@@ -202,6 +203,7 @@
 
 
  # `5.SYSTEM DESIGN`
+ ### [SYSTEM DESIGN PROBLEMS PDF DOWNLOAD AND READ THOSE PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/tree/main/NOTES/SYSTEM%20DESIGN)
   ## RESOURCES
    - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
    - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -255,7 +257,8 @@
 ## EXTRA THINGS
   - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
   - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
-  - [50 HR QUESTIONS](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
+  - [50 HR QUESTIONS](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)\
+  - [HR Interview Mini Cheatsheet](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/HR%20Interview/HR%20Interview%20Mini%20Cheat%20Book_.pdf)
 
 ## Resume Making websites
  - [NovoResume](https://novoresume.com/) Provide decent free template for resume.
