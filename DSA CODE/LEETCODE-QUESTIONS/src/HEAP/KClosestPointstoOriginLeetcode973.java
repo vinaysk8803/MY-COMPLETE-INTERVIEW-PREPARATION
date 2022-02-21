@@ -23,6 +23,7 @@
 package HEAP;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.PriorityQueue;
 
 public class KClosestPointstoOriginLeetcode973 {
@@ -46,7 +47,7 @@ public class KClosestPointstoOriginLeetcode973 {
 
     public static void main(String[] args) {
         int[][] arr = {{3,3},{5,-1},{2,4}};
-        List<List<Integer>> ans = new ArrayList<Integer>()
+//        List<List<Integer>> ans = new ArrayList<Integer>();
         int[][] ans = kClosest(arr,2);
         for (int[] num: ans) {
             System.out.print("[");
