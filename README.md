@@ -62,8 +62,10 @@
     - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
     - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
 - Linked List
+    - [Linked list pdf dowload link](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/LInked%20list.pdf)
 - Stacks & Queues
-- Trees
+- Trees 
+    - [Tree Introduction](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Tree%20Introduction.pdf)
 - Heaps 
 - HashMap
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
