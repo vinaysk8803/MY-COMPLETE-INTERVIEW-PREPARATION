@@ -2,7 +2,7 @@
   - [DATA STRUCTURE AND ALGORITHMS](#1DATA-STRUCTURE-AND-ALGORITHM)
   - [OBJECT ORIENTED PROGRAMMING](#2object-oriented-programming)
   - [OPERATING SYSTEM](#3operating-system)
-  - [COMPUTER NETWORKS](#4computer-networks)
+  - [COMPUTER NETWORKS](#4COMPUTER NETWORKS)
   - [SYSTEM -DESIGN](#5system-design)
   - [DATABASE MANAGEMENT SYSTEM](#6database-managment-system)
   - [OTHERS IMPORTANT THINGS](#7others-important-things)
