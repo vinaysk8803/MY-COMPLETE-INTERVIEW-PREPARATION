@@ -57,7 +57,8 @@
     - Backtracking
 - ### Space and Time Complexity Analysis
     - [Introduction](https://utkarsh1504.github.io/DSA-Java/intro-complexity)
-    - [Time Complexity](https://utkarsh1504.github.io/DSA-Java/time-complexity)
+    - [Time Complexity basics](https://utkarsh1504.github.io/DSA-Java/time-complexity)
+    - [Time Complexity Chart](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time%20-%20Complexities.pdf)
     - [Time Complexity Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time_and_Space_Complexity.pdf)
     - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
     - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
