@@ -17,7 +17,7 @@ import java.util.Queue;
 
 public class KthLargestElementLeetcode215 {
     static int findKthLargest(int[] nums, int k) {
-        Queue<Integer> ans = new PriorityQueue<>(Comparator.reverseOrder()) ;
+        Queue<Integer> ans = new PriorityQueue<>((a,b)-> b- a) ;
         for (int i = 0; i <nums.length ; i++) {
             ans.add(nums[i]);
         }
