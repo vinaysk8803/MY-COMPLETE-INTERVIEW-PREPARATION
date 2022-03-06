@@ -168,7 +168,7 @@
  
  
  
- # `4.COMPUTER NETWORKS `
+ # `4.COMPUTER NETWORKS`
   ## RESOURCES
    - [CHEATSHEET ](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
    - [VIDEO PLAYLIST OF GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
