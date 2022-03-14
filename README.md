@@ -33,6 +33,7 @@
  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 ## DSA TOPICS   
 ###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
+###  [LEETCODE 100 PROBLEM WITH SOLUTION](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/LEETCODE%20100%20PROBLEM%20SOLUTION.pdf)
 - ### Arrays  [Link](https://utkarsh1504.github.io/DSA-Java/arrays)
     - Searching
         - Linear Search [Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/search-%20%20%20Linear%20search.pdf)   / [WEBSITE NOTES](https://utkarsh1504.github.io/DSA-Java/linearsearch)
