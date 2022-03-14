@@ -252,11 +252,17 @@
   - [INDIA BIX](https://www.indiabix.com/online-test/aptitude-test/)
   - [GFG APPITUDE MCQS](https://www.geeksforgeeks.org/quiz-corner-gq/)
   - [ GFG PUZZELS](https://www.geeksforgeeks.org/puzzles/)
+  - [ GFG TOPIC WISE](https://www.geeksforgeeks.org/placements-gq/)
   - [INTERVIEW BIT PUZZELS](https://www.interviewbit.com/puzzles/)
-  - [CODING NINJA GUIDED PATH](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
   - [GFG Tests](https://www.geeksforgeeks.org/aptitude-gq/)
+  - [CARRER RIDE ](https://www.careerride.com/online-aptitude-test.aspx)
+  - [FACE PREP MOCK TEST](https://www.faceprep.in/tests/)
   - [Freshers Now](https://www.freshersnow.com/aptitude-questions-answers-solutions/)
   - [Sawaal](https://www.sawaal.com/)
+ ### VIDEO RESOURCES
+  - [LOGICAL REASONING](https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)
+  - [QUANTATIVE APPTITUDE](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
+  - [PLAYLISTS](https://www.youtube.com/c/FeelFreetoLearnBanking/playlists)
 ## EXTRA THINGS
   - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
   - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
