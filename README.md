@@ -206,12 +206,12 @@
 
 
  # `5.SYSTEM DESIGN`
+ ## RESOURCES
+ 
  ### [SYSTEM DESIGN PROBLEMS PDF DOWNLOAD AND READ THOSE PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/tree/main/NOTES/SYSTEM%20DESIGN)
-  ## RESOURCES
    - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
    - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
    - [GITHUB REPO LINK](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)
-   - [SOME PROBLEMS SOLUTION IN JAVA PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/SYSTEM%20DESIGN/S-OOD.pdf)
    - [TUTORAIALS POINT DESIGN PATTERN TUTORIAL](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
    - [GFG SYSTEM SYSTEM DESIGN INTERVIEW QUESTION](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
    - [INTERVIEW BIT SYSTEM DESIGN](https://www.interviewbit.com/courses/system-design/)
