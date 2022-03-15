@@ -264,6 +264,8 @@
   - [LOGICAL REASONING](https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)
   - [QUANTATIVE APPTITUDE](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
   - [PLAYLISTS](https://www.youtube.com/c/FeelFreetoLearnBanking/playlists)
+  - [PUZZELS BY RAVINDRA B. RAVULA SIR](https://youtube.com/playlist?list=PLEbnTDJUr_IfxolLpNLhWkxJNL2twCo-u)
+  - [APPTITUDE BY RAVINDRA B. RAVULA SIR](https://youtube.com/playlist?list=PLEbnTDJUr_IfuC1NlVZhnr-b8PbSyRI8X)
 ## EXTRA THINGS
   - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
   - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
