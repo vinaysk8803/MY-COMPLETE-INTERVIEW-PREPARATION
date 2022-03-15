@@ -211,12 +211,15 @@
  
  ### [SYSTEM DESIGN PROBLEMS PDF DOWNLOAD AND READ THOSE PDF](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/tree/main/NOTES/SYSTEM%20DESIGN)
    - [PAID COURSE LINK EDUCATIVE.IO](https://www.educative.io/courses/grokking-the-system-design-interview)
-   - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
    - [GITHUB REPO LINK](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)
    - [TUTORAIALS POINT DESIGN PATTERN TUTORIAL](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
    - [GFG SYSTEM SYSTEM DESIGN INTERVIEW QUESTION](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
    - [INTERVIEW BIT SYSTEM DESIGN](https://www.interviewbit.com/courses/system-design/)
-  
+### VIDEO RESOURCES
+ 
+   - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+   - [RAVINDRA RAVULA PLAYLIST](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs)
+   - [LOW LEVEL DESIGN](https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
   
   
   
@@ -266,6 +269,7 @@
   - [PLAYLISTS](https://www.youtube.com/c/FeelFreetoLearnBanking/playlists)
   - [PUZZELS BY RAVINDRA B. RAVULA SIR](https://youtube.com/playlist?list=PLEbnTDJUr_IfxolLpNLhWkxJNL2twCo-u)
   - [APPTITUDE BY RAVINDRA B. RAVULA SIR](https://youtube.com/playlist?list=PLEbnTDJUr_IfuC1NlVZhnr-b8PbSyRI8X)
+  - [APPTUDE Onlinestudyforu ](https://www.youtube.com/playlist?list=PLYA_1SYVpPQzhpqG1pVZzDgL0UH4SRq7i)
 ## EXTRA THINGS
   - [SOFTWARE ENGINEERING PLAYLIST GATE SMASHER](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
   - [INTERVIEW EXPERIENCES](https://www.geeksforgeeks.org/company-interview-corner/)
