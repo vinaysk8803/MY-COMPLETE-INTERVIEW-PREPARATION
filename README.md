@@ -8,6 +8,7 @@
   - [OTHERS IMPORTANT THINGS](#7others-important-things)
  
 ### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
+### [4 MONTHS ROADPMAP](https://whimsical.com/internship-placement-guide-XkAX3DDuKACcREs6Ko7F8i)
 ### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
 
 
