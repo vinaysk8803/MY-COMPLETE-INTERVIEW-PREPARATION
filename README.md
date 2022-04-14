@@ -37,7 +37,8 @@
  - [LEETCODE 100 PROBLEM WITH SOLUTION](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/LEETCODE%20100%20PROBLEM%20SOLUTION.pdf)
  - [CSES PROBLEM SET](https://cses.fi/problemset/)
 ## DSA TOPICS   
-###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
+####  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
+####  [Java point](https://www.javatpoint.com/data-structure-tutorial)
 [_  ](https://mega.nz/folder/UioiQJ6Q#-XCSOYBF6Up9uESHTJhEDA)
 
 - ### Arrays  [Link](https://utkarsh1504.github.io/DSA-Java/arrays)
