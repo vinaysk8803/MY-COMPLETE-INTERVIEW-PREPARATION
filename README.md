@@ -9,7 +9,7 @@
  
 ### [COMPLETE 4TH YEAR ROADMAP](https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7)
 ### [4 MONTHS ROADMAP](https://whimsical.com/internship-placement-guide-XkAX3DDuKACcREs6Ko7F8i)
-### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
+
 
 
 # `1.DATA STRUCTURE AND ALGORITHM`
@@ -17,6 +17,8 @@
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
  - [Apna College DSA + JAVA Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
  - [Abdul Bari ALgorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+ - [CP Algorithm](https://cp-algorithms.com/)
+ - ### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
   ## ONLINE PRACTICE PLATFORMS 
   - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
   - [INTERVIEW BIT](https://www.interviewbit.com/courses/programming/)
@@ -32,6 +34,7 @@
  - [INTERVIEW BIT 300 MUST DO QUESTION](https://www.interviewbit.com/coding-interview-questions/)
  - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+ - [CSES PROBLEM SET](https://cses.fi/problemset/)
 ## DSA TOPICS   
 ###  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 [_  ](https://mega.nz/folder/UioiQJ6Q#-XCSOYBF6Up9uESHTJhEDA)
