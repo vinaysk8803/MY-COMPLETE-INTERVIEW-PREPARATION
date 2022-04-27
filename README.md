@@ -187,6 +187,7 @@
    - [GFG COMMONLY ASK ON CN](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
    - [GFG LAST MINUTES NOTES](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
    - [NOTES](https://drive.google.com/file/d/1EraWa_yVfFHJqOMG2nG91fbg2g1FHm30/view)
+   - [HANDWRITTEN NOTES](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/CN/CN%20Notes%20handwrriten.pdf)
    - [INTERVIEW BIT MOST ASKED QUESTION](https://www.interviewbit.com/networking-interview-questions/)
    - <a href="https://www.edureka.co/blog/interview-questions/networking-interview-questions/" target="_blank">EDUREKA MOST ASKED QUESTION </a>
 
