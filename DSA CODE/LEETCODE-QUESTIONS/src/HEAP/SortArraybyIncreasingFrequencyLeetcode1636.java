@@ -29,6 +29,7 @@ public class SortArraybyIncreasingFrequencyLeetcode1636 {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
 
         }
+
         PriorityQueue<Integer> pq = new PriorityQueue<>( (a,b)-> map.get(a) == map.get(b)? b - a: map.get(a) - map.get(b));
 
        for ( int n: map.keySet()) {
