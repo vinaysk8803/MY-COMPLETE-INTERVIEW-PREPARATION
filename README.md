@@ -161,7 +161,9 @@
  - [OS NOTES PREPINSTA](https://prepinsta.com/operating-systems/)
  - [INTERVIEW BIT OS INTERVIEW QUESTION](https://www.interviewbit.com/operating-system-interview-questions/)
  - [JAVAPOINT OS INTERVIEW QUESTION](https://www.javatpoint.com/operating-system-interview-questions)
+ - [Arsh Goyal Cheatsheet](https://docs.google.com/document/u/0/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/mobilebasic)
  - [INTERVIEW BIT OS MCQS ](https://www.interviewbit.com/operating-system-mcq/)
+
  ### Important Topics In OS
  - Process(attributes,state,life cycle,PCB) vs Thread
  - Scheduling Algo(FCF'S,SJF,SRTF,Round Robin,Priority scheduling,Multiple level 6ueue)
