@@ -17,6 +17,7 @@
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
  - [Apna College DSA + JAVA Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
  - [Abdul Bari ALgorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+ - Other Channels Like Striver Aditya Verma PepCoding
  - [CP Algorithm](https://cp-algorithms.com/)
  - ### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
   ## ONLINE PRACTICE PLATFORMS 
@@ -239,6 +240,7 @@
  #  `6.DATABASE MANAGMENT SYSTEM`
  ## RESOURCES
  - [CHEATSHEET ](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+ - [Google Drive Link](https://drive.google.com/drive/folders/1f5dmqV84E-BN1PiVWqUhNXzcVWkCbGPa)
  - [W3 SCHOOLS SQL QUERIRES](https://www.w3schools.com/sql/sql_intro.asp)
  - [DBMS NOTES PREPINSTA](https://prepinsta.com/database-management-system-dbms/)
  - [VIDEO RESOURCE KNOWLEDGE GATE YT PLAYLIST](https://youtube.com/playlist?list=PLDsWlXwFNai7qqOiGLxgw6mc7yIE8_y9T)
@@ -248,6 +250,7 @@
  - [INTERVIEW BIT SQL INTERVIEW QUESTION](https://www.interviewbit.com/sql-interview-questions/#sql)
  - [JAVAPOINT DBMS INTERVIEW QUESTION](https://www.javatpoint.com/dbms-interview-questions)
  - [INTERVIEW BIT DBMS INTERVIEW QUESTION](https://www.interviewbit.com/dbms-interview-questions/)
+ 
 ### Important Topic in DBMS/SQL
    - Advantages of DBMS
    - Keys(Super,Primary,Candidate,Foreign)
@@ -276,6 +279,7 @@
   - [FACE PREP MOCK TEST](https://www.faceprep.in/tests/)
   - [Freshers Now](https://www.freshersnow.com/aptitude-questions-answers-solutions/)
   - [Sawaal](https://www.sawaal.com/)
+  - [Apptiude Guide Gooogle drive link](https://drive.google.com/drive/folders/1bQD2FKHbYpWV-kCyVM4HvSk0la9iKlF1)
  ### VIDEO RESOURCES
   - [LOGICAL REASONING](https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)
   - [QUANTATIVE APPTITUDE](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
