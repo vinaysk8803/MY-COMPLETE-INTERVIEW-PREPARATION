@@ -85,6 +85,7 @@
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
 - Dynamic Programming
+    - [DP PATTERNS](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - Greedy Algorithms
 
 
