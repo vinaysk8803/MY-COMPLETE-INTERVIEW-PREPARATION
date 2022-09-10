@@ -42,6 +42,7 @@
  - [CSES PROBLEM SET](https://cses.fi/problemset/)
  - [Arsh Goyal Dsa Sheet](https://docs.google.com/spreadsheets/u/0/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview)
  - [Company Wise Coding Problems](https://seanprashad.com/leetcode-patterns/)
+ - [Practice problem for CP](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
 ## DSA TOPICS   
 ####  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 ####  [Java point](https://www.javatpoint.com/data-structure-tutorial)
@@ -303,6 +304,7 @@
  - [CakeResume](https://www.cakeresume.com/)
  - [Canva](https://www.canva.com/resumes/)
  - [Resume Companion](https://resumecompanion.com/resume-examples/software-engineer-resume-sample/)
+ - [OverLeaf template](https://www.overleaf.com/articles/ronak-dedhiyas-cv/ypvjkgvhrdvg)
  - [Tips](https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf?m=1598037165)
         
         git pull --rebase origin main 
