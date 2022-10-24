@@ -305,7 +305,10 @@
  - [Canva](https://www.canva.com/resumes/)
  - [Resume Companion](https://resumecompanion.com/resume-examples/software-engineer-resume-sample/)
  - [OverLeaf template](https://www.overleaf.com/articles/ronak-dedhiyas-cv/ypvjkgvhrdvg)
- - [Tips](https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf?m=1598037165)
+ ### Resume Score Checking
+ - [Job Scan](https://www.jobscan.co/)
+ - [Resume World](https://resumeworded.com/score)
+ - [Naukri.com](https://resume.naukri.com/resume-quality-score)
         
         git pull --rebase origin main 
         git push -u origin main
