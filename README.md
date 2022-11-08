@@ -34,7 +34,7 @@
  - [350+ QUESTION BY APNA COLLEGE ](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview?usp=sharing&pru=AAABgLLeiBc*EpAQnDkj6DnMoIRVM1CqfQ)
  - [45 DAY SHEET ARSH GOYAL](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit#gid=0)
  - [STRIVER 30 DAY SHEET](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
- - [5O AMAZON QUESTON](https://github.com/KushalVijay/AmazonCrackedResource/blob/main/AmazonLearningPlan.md)
+ - [Neetcode 150 Question](https://neetcode.io/practice)
  - [INTERVIEW BIT 300 MUST DO QUESTION](https://www.interviewbit.com/coding-interview-questions/)
  - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
