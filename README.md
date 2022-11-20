@@ -87,6 +87,7 @@
 - Graphs
 - Dynamic Programming
     - [DP PATTERNS](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+    - [Dp Problem Category Wise]( https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
 - Greedy Algorithms
 
 
