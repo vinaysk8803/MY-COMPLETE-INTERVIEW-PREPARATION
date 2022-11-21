@@ -104,6 +104,7 @@
    - [JAVA 50 MCQS](https://www.interviewbit.com/java-mcq/)
    - [JAVAPOINT 300 CORE JAVA QUESTIONA](https://www.javatpoint.com/corejava-interview-questions)
    - [Java 100 Question pdf ](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/JAVA/Top%20100%20JAVA%20Interview%20Qsn%20%26%20Ans_.pdf)
+   - [OOPS Concept](https://beginnersbook.com/2013/04/oops-concepts/)
 ### JAVA PROGRAMMING MCQS
   - [Inheritance](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
   - [Abstract Class and Interface](https://www.geeksforgeeks.org/java-gq/abstract-class-and-interface-in-java-gq/)
