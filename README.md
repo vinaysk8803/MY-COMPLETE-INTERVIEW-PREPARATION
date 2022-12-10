@@ -43,6 +43,7 @@
  - [Arsh Goyal Dsa Sheet](https://docs.google.com/spreadsheets/u/0/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview)
  - [Company Wise Coding Problems](https://seanprashad.com/leetcode-patterns/)
  - [Practice problem for CP](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
+ - [Leetcode Tagged Question ](https://dsa-n-dev.github.io/Resources-Library/Library/Leet%20Code%20Sheets/)
 ## DSA TOPICS   
 ####  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 ####  [Java point](https://www.javatpoint.com/data-structure-tutorial)
@@ -108,6 +109,7 @@
   - [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
 
  ## OOPS
+   - [OOPS Beginner book ](https://beginnersbook.com/2013/04/oops-concepts/)
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [Cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
    - [JAVAPOINT OOPS TUTORIAL](https://www.javatpoint.com/java-oops-concepts)
