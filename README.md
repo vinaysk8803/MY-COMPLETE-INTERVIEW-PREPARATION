@@ -17,8 +17,7 @@
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
  - [Apna College DSA + JAVA Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
  - [Abdul Bari ALgorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
- - Other Channels Like Striver Aditya Verma PepCoding
- - [CP Algorithm](https://cp-algorithms.com/)
+ - Other Channels Like Striver Aditya Verma PepCoding Lover Babber
  - ### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
   ## ONLINE PRACTICE PLATFORMS 
   - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
@@ -39,10 +38,8 @@
  - [GFG MUST DO QUESTION](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
  - [TOP INTERVIEW QUESTION LEETCODE ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
  - [LEETCODE 100 PROBLEM WITH SOLUTION](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/LEETCODE%20100%20PROBLEM%20SOLUTION.pdf)
- - [CSES PROBLEM SET](https://cses.fi/problemset/)
  - [Arsh Goyal Dsa Sheet](https://docs.google.com/spreadsheets/u/0/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview)
  - [Company Wise Coding Problems](https://seanprashad.com/leetcode-patterns/)
- - [Practice problem for CP](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
  - [Leetcode Tagged Question ](https://dsa-n-dev.github.io/Resources-Library/Library/Leet%20Code%20Sheets/)
 ## DSA TOPICS   
 ####  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
