@@ -287,6 +287,14 @@
   - [HR Interview Mini Cheatsheet](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/HR%20Interview/HR%20Interview%20Mini%20Cheat%20Book_.pdf)
   - [STAR METHOD](https://www.themuse.com/advice/star-interview-method)
   - [Interview Mock Website](https://grow.google/certificates/interview-warmup/)
+## Github Repos for Tech Interview
+  - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook)
+  - [Resources For Placement](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+  - [Awesome Interview for Programming Language](https://github.com/DopplerHQ/awesome-interview-questions)
+  - [JavaScript Question](https://github.com/lydiahallie/javascript-questions)
+  - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+  - [React Js Interview Question](https://github.com/sudheerj/reactjs-interview-questions)
 ## Resume Making websites
  - [NovoResume](https://novoresume.com/) Provide decent free template for resume.
  - [Naukri](https://resume.naukri.com/software-engineer-resume-sample)
