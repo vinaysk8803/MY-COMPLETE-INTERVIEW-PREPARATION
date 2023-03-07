@@ -308,6 +308,9 @@
  - [Job Scan](https://www.jobscan.co/)
  - [Resume World](https://resumeworded.com/score)
  - [Naukri.com](https://resume.naukri.com/resume-quality-score)
+ 
+ ### Notion Template for job tracking - [Link Of Template](https://www.notion.so/templates/job-hunt-tracker)
+ ### Linkdin Post for Tips - [Link](https://www.linkedin.com/posts/sahebcse_interview-tips-preparation-activity-7034008677346942976-5iiL/?utm_source=share&utm_medium=member_android)
         
         git pull --rebase origin main 
         git push -u origin main
