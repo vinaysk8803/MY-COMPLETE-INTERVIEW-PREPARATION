@@ -17,7 +17,7 @@
  - FOR DSA +JAVA COURSE [ kunal kushwaha Dsa Playlist ](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
  - [Apna College DSA + JAVA Course](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
  - [Abdul Bari ALgorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
- - Other Channels Like Striver Aditya Verma PepCoding Lover Babber
+ - Other Channels Like Striver Aditya Verma PepCoding Lover Babbar Apna College
  - ### [BOOK FOR CODING INTERVIEW ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FCracking-the-Coding-Interview%2Fdp%2F0984782869&psig=AOvVaw0ZelFCihUPZ3jerwRDJHh2&ust=1644750303220000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCJ77-C-vUCFQAAAAAdAAAAABAD)
   ## ONLINE PRACTICE PLATFORMS 
   - [BINARYSEARCH.COM](https://binarysearch.com/) - Best Part of it is you can make room and solve question togther via chat and call discord facilites available
@@ -265,6 +265,7 @@
   - [INDIA BIX](https://www.indiabix.com/online-test/aptitude-test/)
   - [GFG APPITUDE MCQS](https://www.geeksforgeeks.org/quiz-corner-gq/)
   - [ GFG PUZZELS](https://www.geeksforgeeks.org/puzzles/)
+  - [GFG  PUZZELS DOCS](https://docs.google.com/spreadsheets/d/1zQs62-IO43qGzf83FIKtuxTUBDGI3d4qLXpO426z-vg/edit#gid=0)
   - [ GFG TOPIC WISE](https://www.geeksforgeeks.org/placements-gq/)
   - [INTERVIEW BIT PUZZELS](https://www.interviewbit.com/puzzles/)
   - [GFG Tests](https://www.geeksforgeeks.org/aptitude-gq/)
@@ -273,6 +274,7 @@
   - [Freshers Now](https://www.freshersnow.com/aptitude-questions-answers-solutions/)
   - [Sawaal](https://www.sawaal.com/)
   - [Apptiude Guide Gooogle drive link](https://drive.google.com/drive/folders/1bQD2FKHbYpWV-kCyVM4HvSk0la9iKlF1)
+
  ### VIDEO RESOURCES
   - [LOGICAL REASONING](https://youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)
   - [QUANTATIVE APPTITUDE](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
@@ -308,6 +310,7 @@
  - [Job Scan](https://www.jobscan.co/)
  - [Resume World](https://resumeworded.com/score)
  - [Naukri.com](https://resume.naukri.com/resume-quality-score)
+ - [top cv](https://www.topcv.com/)
  
  ### Notion Template for job tracking - [Link Of Template](https://www.notion.so/templates/job-hunt-tracker)
  ### Linkdin Post for Tips - [Link](https://www.linkedin.com/posts/sahebcse_interview-tips-preparation-activity-7034008677346942976-5iiL/?utm_source=share&utm_medium=member_android)
