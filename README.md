@@ -243,7 +243,10 @@
  - [INTERVIEW BIT SQL INTERVIEW QUESTION](https://www.interviewbit.com/sql-interview-questions/#sql)
  - [JAVAPOINT DBMS INTERVIEW QUESTION](https://www.javatpoint.com/dbms-interview-questions)
  - [INTERVIEW BIT DBMS INTERVIEW QUESTION](https://www.interviewbit.com/dbms-interview-questions/)
- 
+
+ # `7. C++ Resources
+ - [github](https://github.com/methylDragon/coding-notes/tree/master)
+ - [learncpp com](https://www.learncpp.com/)
 ### Important Topic in DBMS/SQL
    - Advantages of DBMS
    - Keys(Super,Primary,Candidate,Foreign)
