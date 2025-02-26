@@ -45,43 +45,6 @@
 ####  [NOTES WEBSITE](https://utkarsh1504.github.io/DSA-Java/)
 ####  [Java point](https://www.javatpoint.com/data-structure-tutorial)
 
-- ### Arrays  [Link](https://utkarsh1504.github.io/DSA-Java/arrays)
-    - Searching
-    - Sorting
-- ### Strings
-- ### Maths for DSA
-   - [Complete Bitwise Operators](https://utkarsh1504.github.io/DSA-Java/bitwise-operator)
-- ### Recursion 
-    - Sorting
-        - [Merge Sort](https://www.javatpoint.com/merge-sort)
-        - [Quick Sort](https://utkarsh1504.github.io/DSA-Java/quicksort)
-    - Backtracking
-- ### Space and Time Complexity Analysis
-    - [Introduction](https://utkarsh1504.github.io/DSA-Java/intro-complexity)
-    - [Time Complexity basics](https://utkarsh1504.github.io/DSA-Java/time-complexity)
-    - [Time Complexity Chart](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time%20-%20Complexities.pdf)
-    - [Time Complexity Handwritten notes](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Time_and_Space_Complexity.pdf)
-    - [Big O](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/big_O.png)
-    - [Space Complexity](https://utkarsh1504.github.io/DSA-Java/space-complexity)
-- Linked List
-    - [Linked list pdf dowload link](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/LInked%20list.pdf)
-- Stacks & Queues
-- Trees 
-    - [Tree Introduction](https://github.com/vinaysk8803/MY-COMPLETE-INTERVIEW-PREPARATION/blob/main/NOTES/DATA%20STRUCTURES/Tree%20Introduction.pdf)
-- Heaps 
-- HashMap
-- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Graphs
-- Dynamic Programming
-    - [DP PATTERNS](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
-    - [Dp Problem Category Wise]( https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
-- Greedy Algorithms
-
-
-
-
-
-
 
  # `2.OBJECT ORIENTED PROGRAMMING`
  ## JAVA TOPICS 
@@ -104,7 +67,9 @@
   - [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
   - [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
   - [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
-
+ ##. C++ Resources
+ - [github](https://github.com/methylDragon/coding-notes/tree/master)
+ - [learncpp com](https://www.learncpp.com/)
  ## OOPS
    - [OOPS Beginner book ](https://beginnersbook.com/2013/04/oops-concepts/)
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
@@ -244,9 +209,6 @@
  - [JAVAPOINT DBMS INTERVIEW QUESTION](https://www.javatpoint.com/dbms-interview-questions)
  - [INTERVIEW BIT DBMS INTERVIEW QUESTION](https://www.interviewbit.com/dbms-interview-questions/)
 
- # `7. C++ Resources
- - [github](https://github.com/methylDragon/coding-notes/tree/master)
- - [learncpp com](https://www.learncpp.com/)
 ### Important Topic in DBMS/SQL
    - Advantages of DBMS
    - Keys(Super,Primary,Candidate,Foreign)
