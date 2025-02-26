@@ -67,7 +67,7 @@
   - [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
   - [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
   - [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
- ##. C++ Resources
+  ## C++ Resources
  - [github](https://github.com/methylDragon/coding-notes/tree/master)
  - [learncpp com](https://www.learncpp.com/)
  ## OOPS
