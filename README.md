@@ -192,8 +192,9 @@
    - [GAURAV SEN YT PLAYLIST](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
    - [RAVINDRA RAVULA PLAYLIST](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdcgKNBcPzgK4zC1zapZqGs)
    - [LOW LEVEL DESIGN](https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
-  
-  
+
+### BLOGS
+  - - [TOP MNC Engineering Blog](https://www.linkedin.com/posts/akash-keshri-158977199_softwareengineering-backend-developers-activity-7311734206588407808-7jUB/?utm_source=share&utm_medium=member_android&rcm=ACoAADdJXy4B3rM9Ggs8BlfkCeljsSt8qufDNGw)  
   
  #  `6.DATABASE MANAGMENT SYSTEM`
  ## RESOURCES
