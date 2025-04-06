@@ -194,7 +194,8 @@
    - [LOW LEVEL DESIGN](https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
 
 ### BLOGS
-  - - [TOP MNC Engineering Blog](https://www.linkedin.com/posts/akash-keshri-158977199_softwareengineering-backend-developers-activity-7311734206588407808-7jUB/?utm_source=share&utm_medium=member_android&rcm=ACoAADdJXy4B3rM9Ggs8BlfkCeljsSt8qufDNGw)  
+  - - [TOP MNC Engineering Blog](https://www.linkedin.com/posts/akash-keshri-158977199_softwareengineering-backend-developers-activity-7311734206588407808-7jUB/?utm_source=share&utm_medium=member_android&rcm=ACoAADdJXy4B3rM9Ggs8BlfkCeljsSt8qufDNGw)
+    - [30 System Design Blogs](https://www.linkedin.com/posts/ashishps1_30-blogs-to-learn-30-system-design-concepts-activity-7293486146427195393-D30Z/?utm_source=share&utm_medium=member_android)
   
  #  `6.DATABASE MANAGMENT SYSTEM`
  ## RESOURCES
