@@ -69,7 +69,10 @@
   - [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
   ## C++ Resources
  - [github](https://github.com/methylDragon/coding-notes/tree/master)
- - [learncpp com](https://www.learncpp.com/)
+ - [learncpp com best](https://www.learncpp.com/)
+ - [STDUY PLAn](https://www.studyplan.dev/cpp)
+ - [CPP INTERNALS](https://www.studyplan.dev/cpp)
+ - [HACKING CPP](https://hackingcpp.com/cpp/beginners_guide.html)
  ## OOPS
    - [OOPS Beginner book ](https://beginnersbook.com/2013/04/oops-concepts/)
    - Video - [KUNAL OOPS VIDEO PLAYLIST ](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
