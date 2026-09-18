@@ -278,6 +278,7 @@
  - [OverLeaf template](https://www.overleaf.com/articles/ronak-dedhiyas-cv/ypvjkgvhrdvg)
  ### Resume Score Checking
  - [Job Scan](https://www.jobscan.co/)
+ - [ResumeAI](https://withresumeai.com/) Free ATS resume checker (3/day anonymous, 10/day free account); State of ATS 2026 dataset
  - [Resume World](https://resumeworded.com/score)
  - [Naukri.com](https://resume.naukri.com/resume-quality-score)
  - [top cv](https://www.topcv.com/)
